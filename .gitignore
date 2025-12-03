@@ -1,0 +1,4 @@
+# BudgetBrain ignores
+budgetbrain/
+.env
+__pycache__/
