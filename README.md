@@ -31,12 +31,7 @@ How news may affect stocks
 Market mood (positive/neutral/negative)
 Provides summary and impact scores.
 
-4. Voice Assistant Interface:
-Speak your queries—BudgetBrain listens.
-Responds with natural voice outputs.
-Integrated into your GUI (Tkinter/NiceGUI/Streamlit).
-
-5. Agentic AI System:
+4. Agentic AI System:
 Powered by LangChain:
 Budget Agent → classifies budgets, finds anomalies
 Investment Agent → checks stock trend & gives forecasts
@@ -85,12 +80,10 @@ Mixed Query?
 5. Result displayed + spoken back to user
 
 🛠️ Tech Stack:-
-
 Backend:
 Python
 LangChain
 yfinance
-prophet
 
 Frontend:
 Streamlit
